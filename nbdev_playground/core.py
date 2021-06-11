@@ -5,4 +5,4 @@ __all__ = ['append_file_ending']
 # Cell
 #export
 def append_file_ending(in_str):
-    return in_str + '.csv'
+    return in_str + '.txt'
